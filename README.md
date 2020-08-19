@@ -1,2 +1,2 @@
 # R-basics
-Various material for studying and teaching R for beginner
+Various material for studying and teaching R for beginners
