@@ -1,7 +1,6 @@
 #Scientist: Nguyen Trung Duc
-#Institute: ICAR - Indian Agricultural Research Institute
+#Institute: VNUA
 #Email: ntduc11@gmail.com
-#Website: ntduc11.github.io
 
 #Techbooks
 ###01. Wickham, H., & Grolemund, G. (2016). R for data science: import, tidy, transform, visualize, and model data. " O'Reilly Media, Inc.".
@@ -201,4 +200,5 @@ plot_grid(trend_graph, NULL, NULL, stat_graph, labels = c("A", "B", "C", "D"), n
 sessionInfo()
 # to get citation 
 citation("ggplot2")
+
 citation("ggpubr")
