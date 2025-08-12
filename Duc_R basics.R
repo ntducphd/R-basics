@@ -195,10 +195,4 @@ plot_grid(trend_graph, NULL, NULL, stat_graph, labels = c("A", "B", "C", "D"), n
 plot_grid(trend_graph, NULL, NULL, stat_graph, labels = c("A", "B", "C", "D"), ncol = 2) + draw_label("DRAFT!", angle = 45, size = 80, alpha = .2)
 
 
-#Notes
-# to get the full list of packages that you use in this R-session:
-sessionInfo()
-# to get citation 
-citation("ggplot2")
 
-citation("ggpubr")
